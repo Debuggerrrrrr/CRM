@@ -1,5 +1,5 @@
 public class{
   public static void main(String[] args){
-    System.out.println("Hello Github!");
+    System.out.println("我被修改了！");
   }
 }
